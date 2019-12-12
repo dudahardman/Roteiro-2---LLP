@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1576183472 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 2\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1576183472 c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 2\include\endereco.h
+	<iostream>
+
+1576182905 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 2\main.cpp
+	<iostream>
+	"Pessoa.h"
+	"Endereco.h"
+
+1576182925 c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 2\include\pessoa.h
+	"Endereco.h"
+	<iostream>
+
+1576182961 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 2\src\pessoa.cpp
+	"Pessoa.h"
+	"Endereco.h"
+	<iostream>
+	<sstream>
+

@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1576190042 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 5\main.cpp
+	<iostream>
+	"Trabalhador.h"
+	"TrabAssalariado.h"
+	"TrabPorHora.h"
+	<string>
+
+1576190211 c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 5\include\trabalhador.h
+	<iostream>
+	<string>
+
+1576189872 c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 5\include\trabassalariado.h
+	"Trabalhador.h"
+	<iostream>
+	<string>
+
+1576189409 c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 5\include\trabporhora.h
+	"Trabalhador.h"
+	<iostream>
+	<string>
+
+1576189893 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 5\src\trabassalariado.cpp
+	"TrabAssalariado.h"
+	"Trabalhador.h"
+	<iostream>
+	<string>
+
+1576189744 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 5\src\trabalhador.cpp
+	"Trabalhador.h"
+	<iostream>
+	<string>
+
+1576189856 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 5\src\trabporhora.cpp
+	"TrabPorHora.h"
+	"Trabalhador.h"
+	<iostream>
+	<string>
+

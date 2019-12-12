@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1576187153 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 4\src\circulo.cpp
+	"Circulo.h"
+	"FigGeom.h"
+	<iostream>
+	<string>
+
+1576187408 c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 4\include\circulo.h
+	"FigGeom.h"
+	<iostream>
+	<string>
+
+1576187408 c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 4\include\figgeom.h
+	<iostream>
+	<string>
+
+1576187408 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 4\src\figgeom.cpp
+	"FigGeom.h"
+	<iostream>
+	<string>
+
+1576187152 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 4\src\quadrado.cpp
+	"Quadrado.h"
+	"FigGeom.h"
+	<iostream>
+	<string>
+
+1576187408 c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 4\include\quadrado.h
+	"FigGeom.h"
+	<iostream>
+	<string>
+
+1576187742 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 4\main.cpp
+	<iostream>
+	"FigGeom.h"
+	"Triangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+
+1576187408 c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 4\include\triangulo.h
+	"FigGeom.h"
+	<iostream>
+	<string>
+
+1576187152 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 4\src\triangulo.cpp
+	"Triangulo.h"
+	"FigGeom.h"
+	<iostream>
+	<string>
+

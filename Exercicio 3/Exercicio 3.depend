@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1576186264 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 3\main.cpp
+	"Consultor.h"
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1576186264 c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 3\include\consultor.h
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1576185750 c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 3\include\funcionario.h
+	<iostream>
+	<string>
+
+1576186264 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 3\src\consultor.cpp
+	"Consultor.h"
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1576185755 source:c:\users\duda\desktop\p2 ec duda\llp\roteiro 2\exercicio 3\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
